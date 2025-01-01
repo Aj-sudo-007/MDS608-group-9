@@ -1,0 +1,39 @@
+Case-no-2
+Introduction:
+Netflix, a global entertainment service that was established in 1997 early, offers many categories of content services.[1] In the last decade, the Company has faced competition and declining subscribers. To tackle this situation, they introduced an ads-watch service at a reduced price. In this service subscribers must watch 4-minute ads every hour, they named this plan a “Basic with Ads”. They introduced it in 2022 after many years of their reluctance.[2] The purpose of this strategic plan is to influence the whole industry and its future impacts.
+Background about the data science organization:
+Netflix is an entertainment streaming platform with strong data science, which plays an important role in deciding its marketing strategy according to the current situation. That team used advanced analytical insights into user behaviour, content preferences, and current market trends. By analysing these data, Netflix makes an informed decision about purchasing content, distribution and their production. 
+key stakeholder: 
+•	Netflix Executives: In this category CEO and chief product officer include which make decisions about the company's new partnerships and new direction.[3] 
+•	Data Science Team: This team's main purpose is to analyze vast amounts of data, and get user preferences in content and current viewing patterns. Their insight helps the company to make informed decisions, about which content needs to offer or recommend to the user according to their preferences. This one and the first stakeholder are internal stakeholders.[3]  
+•	Subscriber: Netflix Subscriber is the primary stakeholder, and their satisfaction directly Impacts company revenue because they pay for that service. Losing a Subscriber can have a harmful effect on company revenue. This one is an external stakeholder.[3] 
+•	Independent producers working with Netflix: Netflix mostly focus on original content creators. But they also hire some independent producers to make this company profitable in the future Point of view.[3] 
+•	Advertiser: Advertisers are those who partner with Netflix to reach their audience and are important stakeholders as well. [3] 
+
+Description of the decision:
+Netflix decides to introduce a “Basic with ads” strategic plan to increase their subscriber and revenue. By decreasing their plan price, and adding an ads tier to compete with other streaming platforms like Disney, Hulu and Apple+ to decrease their loss. These strategic plans were introduced by the data science team. I will explain some of the key inspect that the team has in mind to make decisions:
+User Segmentation:
+ Through this segmentation data science team identifies which users are quite sensitive to high prices and which ones are fed up with watching ads.[4] 
+Content Performance Analysis: Through this analysis team identifies which type of content users demand more in different segmentations.[5] 
+Competitive Analysis:  In this analysis, Netflix analyzes their competitor's base strategic plan and their influence on their company subscriber loss.[6] 
+Ad Revenue Potential: Here they estimate the Ad revenue from user demographics and preferences. 
+By focusing on these key aspects, Netflix's data science team make an informed decision to increase their revenue with respect to other competitor and satisfy their customer as well. 
+
+Description of the data used to make the decision or address the problem:
+Netflix uses a variety of source data to get data from there for decision-making, I will discuss those sources here as well:
+User Behaviour Data: Netflix collects large amounts of data from user behaviour content type preference and churn rates. Churn rates are those in which subscribers or customers stop business with you.[8] This information is important for customers to recommend content that they like.
+Market Research Data: Netflix get data about how much amount of data users like and their price sensitivity. The purpose of company research is to get better insights into humans and what they mostly like in content type.[9]
+Financial Data: Netflix is regularly aware of its financial performance for business strategies. These data include Revenue, cost and profitability.
+Competitive Intelligence Data: These types are those data which with get from their rival streaming platform, so they can make their marketing strategies according to that.
+
+
+Reference: [1P. Kariuki, “How and When Did Netflix Start? A Brief History of the Company,” MakeUseOf, Oct. 22, 2021. Accessed: Dec. 31, 2024. [Online]. Available: https://www.makeuseof.com/how-when-netflix-start-brief-company-history/ 
+[2] F. Shahid, “Netflix Introduces Ad-Supported Tier Called Basic With Ads [UPDATED],” Wccftech, Nov. 03, 2022. Accessed: Dec. 31, 2024. [Online]. Available: https://wccftech.com/netflix-introduces-ad-supported-tier-called-basic-with-ads/ 
+[3] M. Rahman, “Stakeholders of Netflix (Stakeholder analysis of Netflix),” www.howandwhat.net. Accessed: Dec. 31, 2024. [Online]. Available: https://www.howandwhat.net/stakeholders-netflix/ 
+[4] M. Singh, “Netflix to introduce ad-supported plans over the next year or two,” TechCrunch. Accessed: Dec. 31, 2024. [Online]. Available: https://techcrunch.com/2022/04/19/netflix-to-introduce-ad-supporter-plan/
+[5] N. Patel, “How Netflix Uses Analytics To Select Movies, Create Content, & Make Multimillion Dollar Decisions,” Neil Patel. Accessed: Dec. 31, 2024. [Online]. Available: https://neilpatel.com/blog/how-netflix-uses-analytics
+[6] R. Rao, “Streaming Wars: Analyzing the Competitive Dynamics of Disney+ vs. Netflix,” Medium, Jun. 18, 2024. Accessed: Dec. 31, 2024. [Online]. Available: https://medium.com/@rujularao/streaming-wars-analyzing-the-competitive-dynamics-of-disney-vs-netflix-aad4e42f776f 
+[7]J. Toonkel, “Netflix Could Boost U.S. Revenue 21% With Advertising Push,” The Information, May 23, 2022. Accessed: Dec. 31, 2024. [Online]. Available: https://www.theinformation.com/articles/netflix-could-boost-u-s-revenue-21-with-advertising-push 
+[8]M. Danao, “What Is Churn Rate & How Do You Calculate It?,” Forbes, Mar. 02, 2023. Accessed: Dec. 31, 2024. [Online]. Available: https://www.forbes.com/advisor/business/churn-rate/ 
+[9]“Netflix Research.” Accessed: Dec. 31, 2024. [Online]. Available: https://research.netflix.com/research-area/consumer-insights 
+[10]N. T. Blog, “Decision Making at Netflix,” Netflix TechBlog, Sep. 29, 2021. Accessed: Dec. 31, 2024. [Online]. Available: https://netflixtechblog.com/decision-making-at-netflix-33065fa06481 
